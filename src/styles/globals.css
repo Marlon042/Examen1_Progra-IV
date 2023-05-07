@@ -1,0 +1,41 @@
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background-color: #4e87ad5d;
+  color: #333;
+  
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.jumbotron {
+  background-color: #c9d39d;
+  padding: 2rem;
+  font-size: 16;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.list-unstyled li {
+  margin-bottom: 0.5rem;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  width: auto;
+  height: auto;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 2rem;
+  height: 2rem;
+  background-color: rgb(113, 143, 143);
+}
+
+.carousel-item img {
+  max-height: 500px;
+}
+
