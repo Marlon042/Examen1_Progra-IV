@@ -13,7 +13,7 @@ const ProjectCarousel = () => {
             <Carousel.Item key={project.id}>
               <img
                 className="d-block w-100"
-                src="/black-frame.png"
+                src="/black-frame.jpg"
                 width="500"
                 height="400"
                 alt={project.name}
